@@ -3,7 +3,7 @@
         // Create the floating chat button
         const floatingChat = document.createElement('div');
         floatingChat.className = 'floating-chat';
-        floatingChat.innerHTML = '<img src="chat-icon.png" alt="Chat Icon">';
+        floatingChat.innerHTML = '<img src="https://cdn-icons-png.flaticon.com/512/9374/9374926.png" alt="Chat Icon">';
         document.body.appendChild(floatingChat);
 
         // Create the chat window
